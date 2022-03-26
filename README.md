@@ -4,5 +4,6 @@ This project is Sentimental Analysis from tweets on twitter. I want to predict i
 
 Dataset from: https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets?resource=download
 
-My model did 99% accuracy
+I developed a LSTM to predict if anyperson is depressed or not from their tweet and my model has 99% accuracy.
 
+![download](https://user-images.githubusercontent.com/47117440/160225579-e8816ccf-d371-4edd-86bd-6a790c61b0c1.png)
